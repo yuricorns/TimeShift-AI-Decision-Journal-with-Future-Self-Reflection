@@ -98,7 +98,8 @@ Computer Science Engineering student
 Interested in Applied AI, Automation, and Agentic Systems
 
 
-## 🎥 Workflow Demo
+# 🎥 Workflow Demo
 
-![Workflow Demo](workflow-video.gif)
+![Workflow Demo](./workflow-video.gif)
+
 
